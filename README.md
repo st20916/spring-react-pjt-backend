@@ -17,6 +17,12 @@
   - Back-End : 8080
   - Front-End : 3000
 -----------------------------------
+### Source (Repository)
++ Back-End Source
+  - https://github.com/st20916/spring-react-pjt-backend
++ Front-End Source
+  - https://github.com/st20916/spring-react-pjt-frontend
+-----------------------------------
 ### Front-End Library
 + axios
   - npm i axios --save
