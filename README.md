@@ -1,6 +1,11 @@
 # React - Spring Boot Toy Project
 
 ### Description
++ 여행 계획 웹 어플리케이션
+-----------------------------------
+### Database Information
++ 
++ 
 -----------------------------------
 ### Participants
 + 이정재
