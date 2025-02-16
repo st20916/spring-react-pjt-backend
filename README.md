@@ -14,7 +14,7 @@
 -----------------------------------
 ### Settings
 + Java Version
-  - 17
+  - 11
 + Dev Tools
   - IntelliJ (Back-End)
   - Visual Studio Code (Front-End)
